@@ -1,0 +1,17 @@
+{
+  "name": "Tasks - Premium Todo List",
+  "short_name": "Tasks",
+  "description": "Premium Todo List with History and Calendar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
